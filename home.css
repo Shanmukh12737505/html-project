@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 4px 11px;
+        background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFe3yfC8mWBaTvBKlUMCR-SwPVCGExqy5Cg&usqp=CAU");
+        background-repeat: no-repeat;
+        background-size:1900px 890px;
+    }
+
+
+.a{
+    margin: 0%;
+    padding: 4px 11px ;
+    overflow: hidden;
+
+}
+
+ul{
+    
+    overflow: hidden;
+}
+
+ul li {
+float: left;
+   margin: 1%; 
+   margin-top: 10px;
+   padding: 7px 18px;
+   list-style-type: none;
+   overflow: hidden;
+   
+}
+a{
+    text-decoration: none;
+}
+ul li :hover{
+  color: red;
+}
+ul{
+    background-color: rgb(232, 148, 21);
+}              
+
